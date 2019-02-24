@@ -46,7 +46,7 @@ nav{
 }
 
 .banner{
-    background-image: url('images/background_banner.jpg');
+    background-image: url('../images/background_banner.jpg');
     width: 1180px;
     height: 350px;
     text-align: center;
@@ -69,4 +69,33 @@ nav{
 
 #ocupacaoPerfil{
   font-size: 12px;
+}
+
+.video{
+  background-color: #f2f2f2;
+  height: 450px;
+}
+
+video{
+  padding-top: 65px;
+  padding-left: 300px;
+}
+
+.descricaoVideo{
+  background-color: #ffff;
+  color:
+}
+
+#descTitulo{
+  padding-top: 25px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+#textoVideo{
+  width: 680px;
+  max-width: 100%;
+  margin: 0 auto;
+  font-size: 15px;
+  text-align: center;
 }
